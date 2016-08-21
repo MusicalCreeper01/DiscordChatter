@@ -1,0 +1,16 @@
+{
+  "name": "discord-chatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Mitchell",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.0.1",
+    "node-wit": "^4.1.0",
+    "wit-js": "0.0.1"
+  }
+}
